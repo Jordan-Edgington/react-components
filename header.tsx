@@ -15,7 +15,7 @@ type HeaderProps = {
 NOTE - this requires you define an xs breakpoint in index.css with
 
 @theme {
-	--breakpoint-xs: 500px;
+  --breakpoint-xs: 500px;
 }
 
 navigationButtons will be an array like this:
